@@ -1,0 +1,1 @@
+Repozytorium te, jest przykładem stosowania walidacji danych w aplikacjach Oracle Application Express, z wykorzystaniem języka PL/SQL. Znajdziesz tutaj aplikację, do walidacji numeru PESEL, NIP, REGON. A także do sprawdzania numeru rachunku bankowego.
